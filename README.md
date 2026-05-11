@@ -5,10 +5,8 @@ retail store data across regions, categories, and time periods.
 ## Dashboard Pages
 - **Page 1:** Summary by Year & Quarter
 - <img width="1420" height="804" alt="Screenshot 2026-05-11 160437" src="https://github.com/user-attachments/assets/f4ecc968-6ef7-41ad-b2e4-6729675c1c05" />
-<img width="1420" height="807" alt="Screenshot 2026-05-11 160357" src="https://github.com/user-attachments/assets/5aeca3f3-f877-4f90-80d9-81f1452dd085" />
 
 - **Page 2:** Summary by Year, Quarter & Month!
-<img width="1420" height="803" alt="Screenshot 2026-05-11 160451" src="https://github.com/user-attachments/assets/af8aaf9b-594b-424e-9445-e834e894cbfc" />
 <img width="1420" height="804" alt="Screenshot 2026-05-11 160437" src="https://github.com/user-attachments/assets/70411db2-9adc-4b2c-95a2-9021e9bacf8b" />
 
 - **Page 3:** Detailed view by Day
